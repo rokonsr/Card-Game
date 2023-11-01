@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\CardGame\\CardGame\\CardGame.csproj": {}
+    "D:\\Backup\\Card-Game\\CardGame\\CardGame\\CardGame.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\CardGame\\CardGame\\CardGame.csproj": {
+    "D:\\Backup\\Card-Game\\CardGame\\CardGame\\CardGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\CardGame\\CardGame\\CardGame.csproj",
+        "projectUniqueName": "D:\\Backup\\Card-Game\\CardGame\\CardGame\\CardGame.csproj",
         "projectName": "CardGame",
-        "projectPath": "D:\\Projects\\CardGame\\CardGame\\CardGame.csproj",
+        "projectPath": "D:\\Backup\\Card-Game\\CardGame\\CardGame\\CardGame.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\CardGame\\CardGame\\obj\\",
+        "outputPath": "D:\\Backup\\Card-Game\\CardGame\\CardGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -12,3 +12,17 @@ D:\Projects\CardGame\CardGame\obj\Debug\net6.0\refint\CardGame.dll
 D:\Projects\CardGame\CardGame\obj\Debug\net6.0\CardGame.pdb
 D:\Projects\CardGame\CardGame\obj\Debug\net6.0\CardGame.genruntimeconfig.cache
 D:\Projects\CardGame\CardGame\obj\Debug\net6.0\ref\CardGame.dll
+D:\Backup\Card-Game\CardGame\CardGame\bin\Debug\net6.0\CardGame.exe
+D:\Backup\Card-Game\CardGame\CardGame\bin\Debug\net6.0\CardGame.deps.json
+D:\Backup\Card-Game\CardGame\CardGame\bin\Debug\net6.0\CardGame.runtimeconfig.json
+D:\Backup\Card-Game\CardGame\CardGame\bin\Debug\net6.0\CardGame.dll
+D:\Backup\Card-Game\CardGame\CardGame\bin\Debug\net6.0\CardGame.pdb
+D:\Backup\Card-Game\CardGame\CardGame\obj\Debug\net6.0\CardGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\Card-Game\CardGame\CardGame\obj\Debug\net6.0\CardGame.AssemblyInfoInputs.cache
+D:\Backup\Card-Game\CardGame\CardGame\obj\Debug\net6.0\CardGame.AssemblyInfo.cs
+D:\Backup\Card-Game\CardGame\CardGame\obj\Debug\net6.0\CardGame.csproj.CoreCompileInputs.cache
+D:\Backup\Card-Game\CardGame\CardGame\obj\Debug\net6.0\CardGame.dll
+D:\Backup\Card-Game\CardGame\CardGame\obj\Debug\net6.0\refint\CardGame.dll
+D:\Backup\Card-Game\CardGame\CardGame\obj\Debug\net6.0\CardGame.pdb
+D:\Backup\Card-Game\CardGame\CardGame\obj\Debug\net6.0\CardGame.genruntimeconfig.cache
+D:\Backup\Card-Game\CardGame\CardGame\obj\Debug\net6.0\ref\CardGame.dll

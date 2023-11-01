@@ -2,7 +2,6 @@
 using CardGame;
 
 int option = 0;
-Console.WriteLine("Hello, World!");
 
 List<Player> players = new List<Player>();
 Console.WriteLine("Card Game");
